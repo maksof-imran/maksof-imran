@@ -164,9 +164,9 @@ I'm Hafiz Muhammad Imran, a Frontend Developer. I spend my time watching YouTube
 
 ## &nbsp;Lets Talk
 
-[![Linkedin Badge](https://img.shields.io/badge/-Muhammad%20imran-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-imran-ali/)
-[![Mail Badge](https://img.shields.io/badge/-Muhammad%20imran-4267B2?style=flat&labelColor=4267B2&logo=facebook&logoColor=white)](https://web.facebook.com/muhammadimran109/)
-[![Mail Badge](https://img.shields.io/badge/-Muhammad%20imran-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rrimran109@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Muhammad%20imran-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-imran-49484316b/)
+[![Mail Badge](https://img.shields.io/badge/-Muhammad%20imran-4267B2?style=flat&labelColor=4267B2&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100007578138553)
+[![Mail Badge](https://img.shields.io/badge/-Muhammad%20imran-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:itz_imran@outlook.com)
 
 </div>
 
